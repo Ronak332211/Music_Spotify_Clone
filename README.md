@@ -1,20 +1,8 @@
-# Basic Spotify Clone
+# React + Vite
 
-This project is a basic Spotify clone web application that allows users to play music.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
+Currently, two official plugins are available:
 
-- **Music Player**: Play, pause, skip tracks functionality.
-- **Playlist Management**: Create and manage playlists.
-- **Search**: Search for songs and artists.
-- **Responsive Design**: Ensures compatibility across various devices.
-
-## Technologies Used
-
-- **HTML5**: Structure of web pages.
-- **CSS3**: Styling and layout design.
-- **JavaScript**: Client-side scripting for interactivity.
-- **Node.js**: Backend server environment.
-- **Express.js**: Web application framework for Node.js.
-- **MongoDB**: Database for storing music metadata and user playlists.
-- **Audio API**: Used for playing music.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
